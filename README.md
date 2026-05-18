@@ -13,8 +13,10 @@ Everything runs in your browser with vanilla JavaScript. Your files never leave 
 | 📖 **Kindle Highlights Exporter** | Export Kindle clippings & notes to Markdown, CSV, or JSON | [Live →](https://xueboyang1985.github.io/kindle-exporter/) |
 | 🎬 **Subtitle Converter** | Convert SRT/VTT/ASS subtitles to TXT, Markdown, CSV, JSON | [Live →](https://xueboyang1985.github.io/subtitle-converter/) |
 | 💬 **WhatsApp Chat Formatter** | Turn WhatsApp chat exports into clean Markdown, HTML, CSV, JSON | [Live →](https://xueboyang1985.github.io/whatsapp-chat-formatter/) |
+| 🔧 **JSON Formatter & CSV Converter** | Format, validate JSON, convert between JSON and CSV | [Live →](https://xueboyang1985.github.io/json-csv-converter/) |
+| 🔐 **Password Generator** | Generate strong random passwords with strength indicator | [Live →](https://xueboyang1985.github.io/password-generator/) |
 
-All three share the same philosophy:
+All five share the same philosophy:
 - ✅ **100% browser-based** — no install, no download
 - ✅ **No upload** — processing happens locally on your machine
 - ✅ **No signup** — just open and use
