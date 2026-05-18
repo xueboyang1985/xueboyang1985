@@ -15,8 +15,9 @@ Everything runs in your browser with vanilla JavaScript. Your files never leave 
 | 💬 **WhatsApp Chat Formatter** | Turn WhatsApp chat exports into clean Markdown, HTML, CSV, JSON | [Live →](https://xueboyang1985.github.io/whatsapp-chat-formatter/) |
 | 🔧 **JSON Formatter & CSV Converter** | Format, validate JSON, convert between JSON and CSV | [Live →](https://xueboyang1985.github.io/json-csv-converter/) |
 | 🔐 **Password Generator** | Generate strong random passwords with strength indicator | [Live →](https://xueboyang1985.github.io/password-generator/) |
+| 📱 **QR Code Generator** | Generate QR codes for URLs, text, WiFi and more | [Live →](https://xueboyang1985.github.io/qr-code-generator/) |
 
-All five share the same philosophy:
+All six share the same philosophy:
 - ✅ **100% browser-based** — no install, no download
 - ✅ **No upload** — processing happens locally on your machine
 - ✅ **No signup** — just open and use
